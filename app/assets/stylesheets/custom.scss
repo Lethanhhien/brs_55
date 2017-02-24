@@ -1,0 +1,11 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+.container {
+  margin-top: 50px;
+  min-height:400px;
+}
+
+#id {
+  color:black;
+  font-weight:bold;
+}
